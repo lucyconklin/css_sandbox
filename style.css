@@ -18,7 +18,7 @@ h3 {
   font-size: 1.5em;
   }
 
-p {color: #555555}
+.main p {color: #555}
 
 ul {list-style: none;}
 
@@ -27,5 +27,9 @@ li {color: yellow;}
 .footer {
   padding: 50px;
   height = 200px;
-background-color: #555555;
+  background-color: #222;
+}
+
+.footer p {
+  color: #fff;
 }
