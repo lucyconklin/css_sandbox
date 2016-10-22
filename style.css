@@ -1,5 +1,5 @@
 h1 {
-  font-family: sans-serif;;
+  font-family: sans-serif;
   color: steelblue;
   font-size: 3em;
   }
@@ -7,13 +7,13 @@ h1 {
 h1:hover {color: black;}
 
 h2 {
-  font-family: sans-serif;;
+  font-family: sans-serif;
   color: steelblue;
   font-size: 2em;
   }
 
 h3 {
-  font-family: sans-serif;;
+  font-family: sans-serif;
   color: steelblue;
   font-size: 1.5em;
   }
